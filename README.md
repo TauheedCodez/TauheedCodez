@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Tauheed Siddiqui 
 
 ## 💫 About Me:
+Iam a Final year B.E in CSE(IOT) student at M.H. Saboo Siddik College Of Engineering 
 🔭 I’m currently working on CNN Models<br>👯 I’m looking to collaborate on LinkedIn<br>🤝 I’m looking for help with Finding authentic DFU Dataset  <br>🌱 I’m currently learning Deep Learning Neural Networks
 
 
