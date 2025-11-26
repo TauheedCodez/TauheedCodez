@@ -4,7 +4,7 @@
 I'm a Final Year Bachelor of Computer Science Engineering specializing in IoT, Cybersecurity, and Blockchain with a strong foundation in Web Development, Mobile Application Development, IoT, and Blockchain technologies. Experienced in developing Decentralized applications, IoT-based monitoring systems, and Safety-focused mobile solutions through academic projects. Seeking an opportunity to leverage technical expertise in Software Development, Web3, and IoT solutions to contribute to innovative and impactful projects.
 
 ## 💼 Portfolio:
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-white?style=for-the-badge&color=white&labelColor=white)](https://www.tauheedsiddiqui.me/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-white?style=for-the-badge&color=blue&labelColor=white)](https://www.tauheedsiddiqui.me/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tauheed-siddiqui-b098b931b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tauheedsiddiqui307@gmail.com) [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/TauheedDev)
